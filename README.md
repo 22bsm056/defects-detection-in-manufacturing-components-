@@ -8,4 +8,4 @@ Best Model Performance: Achieved >95% accuracy using optimized CNN architecture
 Recommendation: CNN-based approach for production deployment
 Processing Speed: <100ms per image for real-time inspection capability
 
-please read Readme1.pdf for more understanding[Readme1.pdf](https://github.com/user-attachments/files/22061385/Readme1.pdf)
+please read [Readme1.pdf](https://github.com/user-attachments/files/22061385/Readme1.pdf) for more understanding.
